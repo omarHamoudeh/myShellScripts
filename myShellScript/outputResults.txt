@@ -1,0 +1,10 @@
+File: file1.txt - Lines:        8
+File: file2.txt - Lines:        5
+File: file3.txt - Lines:        6
+File: file4.txt - Lines:        2
+File: file5.txt - Lines:        6
+File: file6.txt - Lines:        4
+File: file7.txt - Lines:        2
+File: file8.txt - Lines:        8
+Total files checked: 8
+Total lines counted: 41
